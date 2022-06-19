@@ -1,0 +1,10 @@
+[
+  {
+    "package": "lchemix",
+    "oncran": true
+  },
+  {
+    "package": "sorocs",
+    "oncran": true
+  }
+]
