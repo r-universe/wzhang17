@@ -1,10 +1,10 @@
 [
   {
-    "package": "sorocs",
+    "package": "lchemix",
     "oncran": true
   },
   {
-    "package": "lchemix",
+    "package": "sorocs",
     "oncran": true
   }
 ]
