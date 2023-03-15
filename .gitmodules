@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "lchemix"]
-	path = lchemix
-	url = https://github.com/wzhang17/lchemix
-	shallow = true
-	registered = true
 [submodule "sorocs"]
 	path = sorocs
 	url = https://github.com/wzhang17/sorocs
+	shallow = true
+	registered = true
+[submodule "lchemix"]
+	path = lchemix
+	url = https://github.com/wzhang17/lchemix
 	shallow = true
 	registered = true
